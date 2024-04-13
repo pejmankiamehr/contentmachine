@@ -1,0 +1,9 @@
+.box{
+   border: thin solid rgba(237, 237, 237, 1);
+   box-sizing: border-box;
+   width: 100%;
+   min-height: 190px;
+   background: white;
+   padding: 1em 1em;
+   
+}

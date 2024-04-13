@@ -1,0 +1,15 @@
+ul{
+   list-style-type: none !important;
+  padding: 0%;
+}
+.css-cveggr-MuiListItemIcon-root{
+  min-width: 20px !important;
+}
+.css-10hburv-MuiTypography-root{
+  font-size: 14px !important;
+  width:max-content  !important;
+  
+}
+.css-mhc70k-MuiGrid-root{
+  width: 100% !important;
+}
